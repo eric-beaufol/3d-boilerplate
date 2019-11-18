@@ -3,16 +3,14 @@
 ## Installation
 
 1. Install node modules :
-   `yarn install`
-   si yarn n'est pas installé :
-   `npm install`
+   `yarn install` or `npm install`
 
-2. Lancer le serveur de développement de Webpack :
-   `npm start`
+2. Start dev server :
+   `yarn run dev`
 
-## Builder le projet
+## Build project
 
-1. Lancer la commande de build :
-   `npm run build`
+1. command :
+    `yarn run build`
 
-2. Un dossier `/www/` est créé, il contient tous les fichiers nécessaires à la mise en production (html, images, typos, etc...).
+2. `/www/` directory is created, containing all assets (html, css, js, images, etc...)
