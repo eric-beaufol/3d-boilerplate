@@ -7436,15 +7436,20 @@ text-table@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
 
+three.meshline@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/three.meshline/-/three.meshline-1.2.0.tgz#89a0c9d67d8062e5649dc0ac9aa16f14e7c199b5"
+  integrity sha512-E7s9xwgjUhQWIvXBMIdCOIvpT1qV9UlntzaaJTWzJvYtvI2ZvVsX8EM8FxoiG5aptXuKbp5osnvcJCCkYOjmBA==
+
 three@0.97.0:
   version "0.97.0"
   resolved "https://registry.yarnpkg.com/three/-/three-0.97.0.tgz#76141e1b0ace14246fe9198a458fefddc98a4e30"
   integrity sha512-ctZF79O1R2aMIDnz9cV5GUIONyFnYvfQKg4+EAwEVaEr1mgy99rglstH6hhRdIThu3SOa4Ns5da/Ee5fTbWc9A==
 
-three@^0.104.0:
-  version "0.104.0"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.104.0.tgz#9ad1da492153b753a89e0df066631215bd9d9087"
-  integrity sha512-q617IMBC5k40U2E9UC4/LtmhzTOOLB1jGMIooUL+QrhZ7abiGCSDrKrpCDt9V8RTl6xw+0FYfA1PYsIPKbQOgg==
+three@^0.111:
+  version "0.111.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.111.0.tgz#9cedb73e79b7f6bf2440cb67a273f883faa923b6"
+  integrity sha512-AcTqyGJ3H75AIusOuADy0LsP958QKQwm/YhABHFMzd6RFXPNVay1rlSbbG6WYv7KM72G2THMMwqbjQd4dVHMkQ==
 
 through2@^2.0.0:
   version "2.0.5"
