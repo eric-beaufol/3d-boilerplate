@@ -5,8 +5,6 @@ import * as CANNON from 'cannon'
 import OrbitControls from 'orbit-controls-es6'
 import Stats from 'stats.js'
 import dat from 'dat.gui'
-import brickDiffuse from '../../static/img/brick_diffuse.jpg'
-import brickRoughness from '../../static/img/brick_roughness.jpg'
 
 // THREE
 let scene, camera, renderer, controls
